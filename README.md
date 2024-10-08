@@ -41,13 +41,13 @@ If you see ‼️ make sure you’re getting the 2024 edition, not the 2012 one!
 
 * [Yes 24](https://www.yes24.com/Product/Goods/122510645)  
 * [Kyobo](https://product.kyobobook.co.kr/detail/S000209056985)  
-* ‼️[Aladdin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=323217460)
+* [Aladdin](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=323217460)
 
 **China**
 
 * ⚠️[JD](https://corporate.jd.com/)  
 * ⚠️[Tmall](https://www.tmall.com/)  
-* ‼️[Dangdang](http://product.dangdang.com/11826562379.html)  
+* [Dangdang](http://product.dangdang.com/11826562379.html)  
 * ⚠️Douyin (Tiktok)  
 * ⚠️Xiaohungsu (Little Red Book)
 
@@ -78,7 +78,7 @@ If you see ‼️ make sure you’re getting the 2024 edition, not the 2012 one!
 AFRICA  
 **South Africa**
 
-* ‼️[Takealot](https://www.takealot.com/the-nature-of-code/PLID93921095)
+* [Takealot](https://www.takealot.com/the-nature-of-code/PLID93921095)
 
 ### EUROPE
 
