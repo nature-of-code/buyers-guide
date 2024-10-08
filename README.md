@@ -1,14 +1,10 @@
 # Nature of Code Buyers Guide
 
-🚂 Thank you for your interest in purchasing **The Nature of Code**! 🎉 
+Thank you for your interest in purchasing **The Nature of Code**! I've received many inquiries about where to find the book globally, so this page is my best effort at compiling a list of options to help you track down a copy. If you can help provide more information about how to get the book in your local area, please [open an issue](https://github.com/nature-of-code/buyers-guide/issues) or submit a pull request here! You can also reach out to help@thecodingtrain.com for assistance.
 
-🌍 I’ve received a lot of inquiries about where to find the book globally! 🌍
+## 🚉 First Stop!
 
-This page compiles all the options to help you track down your copy, please contribute! 📖✨
-
-## **🚉 First Stop!**
-
-Check here to see if these options will ship to you (or at least ship at a reasonable price):
+Start by trying these options! While buying direct from natureofcode.com is the best way to support the book, the shipping costs are very expensive for non-US addresses.
 
 * Buy Direct from [natureofcode.com](http://natureofcode.com)  
 * [No Starch](https://nostarch.com/nature-code)  
@@ -17,17 +13,16 @@ Check here to see if these options will ship to you (or at least ship at a reaso
 * [Penguin Random House](https://www.penguinrandomhouse.com/books/739590/the-nature-of-code-by-daniel-shiffman/)  
 * [Amazon](https://amzn.to/4e3243y) (Check your country's Amazon!)
 
-🚉 You might also try the following:
+You might also try the following:
 
-1. Contact your local bookstore and ask them to order it for you! Give them the ISBN number (**ISBN-10: 1718503709, ISBN-13: 978-1718503700)**.  
-2. Refer to the “Retailers by Country” list below to see if they have *The Nature of Code* in stock.
-
-🤝 **Help Each Other Out!** 🤝  
-This page is open-source! You can add links directly by editing this page or please [file an issue](https://github.com/nature-of-code/buyers-guide/issues) letting the community know if you were (or were not) able to find teh book!
+1. Contact your local bookstore and ask if they can order it for you. Provide them with the ISBN numbers: **ISBN-10: 1718503709, ISBN-13: 978-1718503700**.  
+2. Check the "Retailers by Country" list below to see if there's a regional store that carries the book!
 
 ## Retailers by Country
 
-Below is a list of retailers where we've been able to find the book. If you see ⚠️ next to a listing, we haven't yet confirmed if they do indeed carry it. If you are able to help us check, please [open an issue](https://github.com/nature-of-code/buyers-guide/issues) or submit a pull request directly to this page! Additionally, please verify that you're purchasing the 2024 edition and not the 2012 version. You can usually identify the correct edition by checking the cover design, publication year, or ISBN number (ISBN-10: 1718503709, ISBN-13: 978-1718503700).
+Below is a list of retailers where we’ve found the book available. If you see ⚠️ next to a store, we haven't confirmed if they currently carry it. If you can help verify any listings, please [open an issue](https://github.com/nature-of-code/buyers-guide/issues) or submit a pull request directly to this page! 
+
+Also, make sure you’re getting the 2024 edition, not the 2012 one! You can usually tell by the cover design, publication year, or by checking the ISBN number (ISBN-10: 1718503709, ISBN-13: 978-1718503700).
 
 ### East Asia
 
