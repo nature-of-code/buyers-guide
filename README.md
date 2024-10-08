@@ -22,7 +22,7 @@ You might also try the following:
 
 Below is a list of retailers where we’ve found the book available. If you see ⚠️ next to a store, we haven't confirmed if they currently carry it. If you can help verify any listings, please [open an issue](https://github.com/nature-of-code/buyers-guide/issues) or submit a pull request directly to this page! 
 
-Also, make sure you’re getting the 2024 edition, not the 2012 one! You can usually tell by the cover design, publication year, or by checking the ISBN number (ISBN-10: 1718503709, ISBN-13: 978-1718503700).
+If you see ‼️ make sure you’re getting the 2024 edition, not the 2012 one! You can usually tell by the cover design, publication year, or by checking the ISBN number (ISBN-10: 1718503709, ISBN-13: 978-1718503700).
 
 ### East Asia
 
@@ -36,8 +36,6 @@ Also, make sure you’re getting the 2024 edition, not the 2012 one! You can usu
 
 * [Amazon.jp](https://www.amazon.co.jp/dp/1718503709?ref_=cm_sw_r_cp_ud_dp_7F31846DFXY47TCHZGXD)   
 * [Kinokuniya](https://www.kinokuniya.co.jp/f/dsg-02-9781718503700)
-
-**Hong Kong**
 
 **South Korea**
 
@@ -55,49 +53,17 @@ Also, make sure you’re getting the 2024 edition, not the 2012 one! You can usu
 
 ### Central and Latin America
 
-**Mexico**
-
-* 
-
-**Honduras**
-
-* 
-
-**Guatemala**
-
-* 
-
-**Costa Rica**
-
-* 
-
 **Ecuador**
 
 * ⚠️[Books and Bits](https://www.booksandbits.ec/)
-
-**Peru**
 
 **Colombia**
 
 * ⚠️[GrupoPenta](https://www.facebook.com/ByTheBookGeek/)
 
-**Puerto Rico**
-
-* 
-
-**Jamaica**
-
-* 
-
-**Trinidad & Tobago**
-
 **Barbados**
 
 * ⚠️[Days Bookstore](https://daysbookstore.com/)
-
-**Dominican Republic**
-
-* 
 
 ### AUSTRALIA
 
@@ -140,10 +106,6 @@ AFRICA
 
 * ⚠️[Tanum.no](https://www.tanum.no/)
 
-**Iceland**
-
-* 
-
 **Finland**
 
 * [Adlibris.fi](https://www.adlibris.com/se/bok/the-nature-of-code-9781718503700)
@@ -158,25 +120,9 @@ AFRICA
 
 * [Orellfuessli](https://www.orellfuessli.ch/shop/home/artikeldetails/A1069471844)
 
-**France**
-
-* 
-
-**Spain**
-
-* 
-
 **Portugal**
 
 * [Bertrand.pt](https://www.bertrand.pt/livro/the-nature-of-code-daniel-shiffman/29938217)
-
-**Greece**
-
-* 
-
-**Turkey**
-
-* 
 
 **Italy**
 
