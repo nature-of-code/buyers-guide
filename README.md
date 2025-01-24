@@ -128,6 +128,12 @@ AFRICA
 
 * [Bertrand.pt](https://www.bertrand.pt/livro/the-nature-of-code-daniel-shiffman/29938217)
 
+**Poland**
+
+* [Megaksiążki.pl](https://www.megaksiazki.pl/programowanie/25042949-the-nature-of-code.html?utm_si=RFlidjRTZUc2TWpVd05ESTVORGt5TlRBME1qazBPUT09&matchtype=&network=x&device=c&creative=&keyword=&placement=&param1=&param2=&adposition=&campaignid=18145289966&adgroupid=&feeditemid=&targetid=&loc_physical_ms=9067599&loc_interest_ms=&searchtype=&gad_source=1&gbraid=0AAAAADieuMOX0KE855B5Ao-p_2vL6VAwJ&gclid=CjwKCAiAkc28BhB0EiwAM001TTciBsW0p67urZQ_QxE0HJ729Zo9AdY5rXZam7zlCA99DLzGUb6vahoCsrEQAvD_BwE)
+* [Allegro.pl](https://allegro.pl/oferta/the-nature-of-code-shiffman-daniel-16365442544?utm_feed=aa34192d-eee2-4419-9a9a-de66b9dfae24&utm_source=google&utm_medium=cpc&utm_campaign=_krk_ksiazki_pla_pmax&ev_campaign_id=17998710628&gad_source=1&gbraid=0AAAAAD24kbMbuBqGw7VuCXcNVe2oIj-83&gclid=CjwKCAiAkc28BhB0EiwAM001TfAEcjzXT3Wj139GjLTN7IEWtBp6O43oRrrDoNnFHvJGGaYLBvvF-hoCMW0QAvD_BwE)
+* [Światksiążki.pl](https://www.swiatksiazki.pl/the-nature-of-code-simulating-natural-systems-with-javascript-7344675-ksiazka.html)
+
 **Italy**
 
 * [IBS.it](https://www.ibs.it/nature-of-code-simulating-natural-libro-inglese-daniel-shiffman/e/9781718503700?queryId=06dc47217b677370a38221478453deab)  
