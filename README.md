@@ -6,7 +6,7 @@ Thank you for your interest in purchasing **The Nature of Code**! I've received 
 
 Start by trying these options! While buying direct from natureofcode.com is the best way to support the book, the shipping costs are very expensive for non-US addresses.
 
-- Buy Direct from [natureofcode.com](http://natureofcode.com)
+- Buy Direct from [natureofcode.com](https://natureofcode.com)
 - [No Starch](https://nostarch.com/nature-code)
 - [Bookshop.org](https://bookshop.org/p/books/the-nature-of-code-daniel-shiffman/20597363?ean=9781718503700)
 - [Barnes & Noble](https://www.barnesandnoble.com/w/the-nature-of-code-daniel-shiffman/1114086024)
@@ -47,7 +47,7 @@ If you see ‼️ make sure you’re getting the 2024 edition, not the 2012 one!
 
 - ⚠️[JD](https://corporate.jd.com/)
 - ⚠️[Tmall](https://www.tmall.com/)
-- [Dangdang](http://product.dangdang.com/11826562379.html)
+- [Dangdang](https://product.dangdang.com/11826562379.html)
 - ⚠️Douyin (Tiktok)
 - ⚠️Xiaohungsu (Little Red Book)
 
