@@ -94,8 +94,9 @@ If you see ‼️ make sure you’re getting the 2024 edition, not the 2012 one!
 
 **Netherlands**
 
+- [Libris](https://libris.nl/a/daniel-shiffman/the-nature-of-code/9781718503700) (support local bookshops)
 - [Bol](https://www.bol.com/nl/nl/p/the-nature-of-code/9300000169959900)
-- [Bookspot](https://www.bruna.nl/engelse-boeken/the-nature-of-code-9781718503700)
+- [Bruna](https://www.bruna.nl/engelse-boeken/the-nature-of-code-9781718503700)
 
 **Sweden**
 
