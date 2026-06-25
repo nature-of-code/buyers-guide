@@ -146,7 +146,7 @@ If you see ‼️ make sure you’re getting the 2024 edition, not the 2012 one!
 
 **Country-wide**
 
-- [Indigo / Chapters / Coles](https://www.indigo.ca/en-ca/the-nature-of-code-simulating-natural-systems-with-javascript/9781718503700.html)
+- [Indigo / Chapters / Coles](https://www.indigo.ca/products/the-nature-of-code)
 
 **Québec**
 
